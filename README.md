@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chu-Wx
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python, sql...
-- 💞️ I’m looking to collaborate on any DS project
+- 👀 I’m interested in Software Developemnt
+- 🌱 I’m currently learning Frontend , Backend ...
+- 💞️ I’m looking to collaborate on any open source software development
 - 📫 How to reach me chuweismail@gmail.com
 
 <!---
