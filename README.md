@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chu-Wx
 - 👀 I’m interested in Software Developemnt
-- 🌱 I’m currently learning Frontend , Backend ...
+- 🌱 I’m currently learning FullStack, ML
 - 💞️ I’m looking to collaborate on any open source software development
 - 📫 How to reach me chuweismail@gmail.com
 
